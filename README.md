@@ -1,8 +1,26 @@
-<h1>Oiii, me chamo Gabriel Carvalho 😃<h1>
-  <h2>Sobre mim<h2>
-    <p>Meu nome é Gabriel Henrique Rocha de Carvalho, tenho 17 anos, atualmente curso tecnico em informatica e informatica para web na Universidade Federal do Rio Grande do Norte. Atualmente possuo uma bolsa de iniciação cientifica támbem na UFRN na qual junto com professores trabalho na obtenção de dados cerebrais durante atividades fisicas, onde faço de tudo um pouco.<br>
-       <br>Tenho experiencias na area geral da informatica como por exemplo, Manutenção de Computadores, Eletronica, Manipulação de Banco de Dados, Programação, Redes de computadores e afins.<p>
-  <h2>Contato<h2>
-    <p>☎️ (84) 99141-7050<br>
-       📧 gabrielhenriquerc11@gmail.com
-    </p>
+## Olá!! sou Gabriel Carvalho 😃
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielrc11&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielrc11&layout=compact&theme=dracula)
+
+#### Sociais
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenriquerc11@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabrielher1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-rocha-de-carvalho-7911a225b/)
+
+#### Portfolio
+
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devfolio-gabriel.netlify.app/)
+
+#### Habilidades
+
+[![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
+#### Aprendendo
+
+[![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
