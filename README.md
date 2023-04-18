@@ -1,6 +1,6 @@
 ## Olá!! sou Gabriel Carvalho 😃
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielrc11&show_icons=true&theme=dracula)
+![Gabriel GitHub stats]([https://github-readme-stats.vercel.app](https://readmestats.999857.xyz)/api?username=Gabrielrc11&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielrc11&layout=compact&theme=dracula)
 
