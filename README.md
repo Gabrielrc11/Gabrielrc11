@@ -1,8 +1,6 @@
 ## Olá!! sou Gabriel Carvalho 😃
 
-![Gabriel GitHub stats](https://readmestats.999857.xyz/api?username=Gabrielrc11&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielrc11&layout=compact&theme=dracula)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Gabrielrc11&layout=compact&theme=dracula)
 
 #### Sociais
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenriquerc11@gmail.com)
