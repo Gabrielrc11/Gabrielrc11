@@ -1,4 +1,4 @@
-## Olá!! sou Gabriel Carvalho 😃
+## Hello!! I'm Gabriel Carvalho
 
 ![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Gabrielrc11&layout=compact&theme=dracula)
 
