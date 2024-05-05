@@ -6,5 +6,5 @@
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,github,linux,python,django,postgres,npm,discord,linkedin,notion,instagram" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,github,linux,python,django,postgres,npm,discord,linkedin,notion" />
 </a>
