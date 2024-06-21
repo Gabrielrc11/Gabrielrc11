@@ -1,5 +1,5 @@
 # Sou Gabriel Carvalho!
-## Desenvolvedor Frontend
+## Desenvolvedor Fullstack
 
 -Técnico em Informática pela UFRN<br>
 -Estudante de Ciências e Tecnologias pela UFRN<br>
