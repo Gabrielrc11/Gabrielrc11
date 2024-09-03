@@ -1,5 +1,5 @@
 # Sou Gabriel Carvalho!
-## Desenvolvedor Fullstack
+## Desenvolvedor Frontend
 
 -Técnico em Informática pela UFRN<br>
 -Estudante de Ciências e Tecnologias pela UFRN<br>
@@ -10,5 +10,5 @@
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,typescript,python,react,django,postgres,git,github,npm,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,react,postgres,git,github,npm,linux" />
 </a>
