@@ -1,5 +1,5 @@
 # Sou Gabriel Carvalho!
-## Desenvolvedor de Games
+## Desenvolvedor
 
 - Técnico em Informática pela UFRN<br>
 - Estudante de Desenvolvimento WEB pelo Instituto Metrópole Digital
