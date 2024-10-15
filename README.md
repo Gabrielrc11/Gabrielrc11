@@ -12,3 +12,8 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cs,react,next,tailwind,postgres,firebase,git,unity" />
 </a>
+
+<div align="center">
+ ### Contatos
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-carvalho-7911a225b/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenriquerc11@gmail.com)
+</div>
