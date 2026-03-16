@@ -6,7 +6,7 @@
 
 </div>
 
-Sou Gabriel Henrique Rocha de Carvalho, Desenvolvedor Fullstack com experiência em Inteligência Artificial, Análise de Dados e estudante do Bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Minha paixão por tecnologia e criatividade me impulsiona a buscar soluções inovadoras e entregar projetos de alta qualidade.
+Me chamo Gabriel Henrique Rocha de Carvalho, sou Desenvolvedor Fullstack com experiência em Inteligência Artificial, Análise de Dados e estudante do Bacharelado em Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte. Minha paixão por tecnologia desde muito cedo me impulsiona a buscar soluções inovadoras que melhorem o dia das pessoas e resolvam problemas reais.
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielrc11&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrc11&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
