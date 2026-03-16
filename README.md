@@ -13,7 +13,7 @@ Me chamo Gabriel Henrique Rocha de Carvalho, sou Desenvolvedor Fullstack com exp
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,python,laravel,vue,react,mui,tailwindcss,mysql,postgresql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,python,laravel,vue,react,mui,tailwindcss,mysql,postgresql,docker,git,linux,aws," />
 </a>
 
 <div align="center">
